@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DesignUI</string>
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+    <string name="ret">⌫</string>
+    <string name="zero">0</string>
+    <string name="point">.</string>
+    <string name="equal">=</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="plus">+</string>
+    <string name="four">4</string>
+    <string name="Five">5</string>
+    <string name="six">6</string>
+    <string name="rest">-</string>
+    <string name="Seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="multiplication">*</string>
+    <string name="ac">AC</string>
+    <string name="parentheses">( )</string>
+    <string name="percentage">%</string>
+    <string name="div">÷</string>
+    <string name="text_view_result">12,936</string>
+    <string name="operationText">308 x 42</string>
+</resources>

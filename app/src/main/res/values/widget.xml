@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DesignUI.Widget"/>
+    <style name="DesignUI.Widget.Button">
+        <item name="fontFamily">@font/madani</item>
+        <item name="android:background">@drawable/background_buttons</item>
+        <item name="android:textColor">@color/white_numbers</item>
+        <item name="android:textSize">@dimen/sizeTextButton</item>
+    </style>
+
+    <style name="DesignUI.Widget.Button.Operator">
+        <item name="android:textColor">@color/colorOperator</item>
+    </style>
+
+    <style name="DesignUI.Widget.Button.Especial">
+        <item name="android:textColor">@color/colorAC</item>
+    </style>
+</resources>

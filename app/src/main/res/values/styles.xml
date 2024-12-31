@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DesignUI"/>
+    <style name="DesignUI.Text">
+        <item name="fontFamily">@font/madani</item>
+    </style>
+    <style name="DesignUI.Text.Result">
+        <item name="android:textSize">@dimen/textResult</item>
+    </style>
+
+    <style name="DesignUI.Text.Operation">
+        <item name="android:textSize">@dimen/textOperation</item>
+    </style>
+
+</resources>

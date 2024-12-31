@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="medium_margin">12dp</dimen>
+    <dimen name="large_margin">18dp</dimen>
+    <dimen name="extraLarge_margin">20dp</dimen>
+    <dimen name="radiusButton">30dp</dimen>
+    <dimen name="textSmallSize">25sp</dimen>
+    <dimen name="textLargeSize">32sp</dimen>
+    <dimen name="sizeTextButton">34sp</dimen>
+    <dimen name="textResult">60sp</dimen>
+    <dimen name="textOperation">35sp</dimen>
+</resources>
